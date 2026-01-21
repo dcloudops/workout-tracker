@@ -59,7 +59,7 @@ A simple web application to track your gym workouts. Built with Python Flask and
 6. **Open your browser**
    - Navigate to: `http://localhost:5000`
 
-## 📁 Project Structure
+## Project Structure
 ```
 workout-tracker/
 ├── app.py              # Main Flask application
@@ -72,7 +72,7 @@ workout-tracker/
 └── README.md           # Project documentation
 ```
 
-## 🎨 Screenshots
+## Screenshots
 
 ### Main Interface
 Clean form for adding workouts with all necessary fields.
@@ -80,7 +80,7 @@ Clean form for adding workouts with all necessary fields.
 ### Workout History
 Table view showing all logged workouts with date, exercise, sets, reps, and weight.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Delete/Edit workout functionality
 - [ ] Filter workouts by exercise type
@@ -90,7 +90,7 @@ Table view showing all logged workouts with date, exercise, sets, reps, and weig
 - [ ] User authentication
 - [ ] Database integration (SQLite/PostgreSQL)
 
-## 📝 What I Learned
+## What I Learned
 
 This project helped me understand:
 - Flask routing and request handling
@@ -110,7 +110,7 @@ This project helped me understand:
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built as part of my journey to improve my Python and web development skills. Open to feedback and suggestions!
 
